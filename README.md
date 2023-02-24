@@ -2,4 +2,4 @@
 
 Run the file using following command in jupyter lab
 
-## panel server Co2_Emission.ipynb 
+## panel serve Co2_Emission.ipynb 
